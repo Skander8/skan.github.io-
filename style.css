@@ -1,0 +1,52 @@
+/* Style global */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #f9f9f9;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #24292e;
+  color: #fff;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+/* Sections */
+section {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+/* Projets */
+.project {
+  margin-bottom: 20px;
+}
+.project a {
+  display: inline-block;
+  margin-top: 5px;
+  padding: 8px 12px;
+  background: #0366d6;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.project a:hover {
+  background: #024ea2;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #24292e;
+  color: #fff;
+}
